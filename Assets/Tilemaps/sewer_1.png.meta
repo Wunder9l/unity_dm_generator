@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 6fa8d1614c73f7e4bab527bd2ccac17d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8539718795578399560
+    second: room
+  - first:
+      213: 4517519814562779165
+    second: sewer_1_1
+  - first:
+      213: -7234426477190875607
+    second: sewer_1_2
+  - first:
+      213: 3637071981521375843
+    second: sewer_1_3
+  - first:
+      213: 6129749672586445034
+    second: sewer_1_4
+  - first:
+      213: 2014583381120620202
+    second: sewer_1_5
+  - first:
+      213: 9151854559895671845
+    second: sewer_1_6
+  - first:
+      213: 1867106783825254492
+    second: sewer_1_7
+  - first:
+      213: 1468163313645448215
+    second: sewer_1_8
+  - first:
+      213: -5543296118000880073
+    second: sewer_1_9
+  - first:
+      213: 57366011537007887
+    second: sewer_1_10
+  - first:
+      213: 20756069875123882
+    second: sewer_1_11
+  - first:
+      213: -6283922368409538104
+    second: sewer_1_12
+  - first:
+      213: -6543377058985953800
+    second: sewer_1_13
+  - first:
+      213: 538691328601015087
+    second: sewer_1_14
+  - first:
+      213: -2328105726398972546
+    second: sewer_1_15
+  - first:
+      213: 2857944195593226126
+    second: sewer_1_16
+  - first:
+      213: -767086384019470016
+    second: sewer_1_17
+  - first:
+      213: 1839759435867410942
+    second: sewer_1_18
+  - first:
+      213: -152489847702093764
+    second: sewer_1_19
+  - first:
+      213: 4978270515137803787
+    second: sewer_1_20
+  - first:
+      213: 882159995253038339
+    second: sewer_1_21
+  - first:
+      213: 8265243551631626301
+    second: road
+  - first:
+      213: 7024776364092259820
+    second: sewer_1_23
+  - first:
+      213: 5638447180875510475
+    second: sewer_1_24
+  - first:
+      213: 2847686527114060130
+    second: sewer_1_25
+  - first:
+      213: 9112743693256782012
+    second: sewer_1_26
+  - first:
+      213: 3012630767662568757
+    second: sewer_1_27
+  - first:
+      213: 3705513000726115731
+    second: sewer_1_28
+  - first:
+      213: -3949922391899481844
+    second: sewer_1_29
+  - first:
+      213: 2201721536860533404
+    second: sewer_1_30
+  - first:
+      213: -3875864660279222179
+    second: sewer_1_31
+  - first:
+      213: -8634607997987252849
+    second: sewer_1_32
+  - first:
+      213: 4664649109828855673
+    second: sewer_1_33
+  - first:
+      213: 2843689404680821357
+    second: sewer_1_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: room
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db53f784db063754eb5a0edb4446ef75
+      internalID: 8539718795578399560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfc625249b30ca4caaa8a4a4c9c60c7
+      internalID: 8265243551631626301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sewer_1_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1154c704569807e44bfd29d16984252c
+      internalID: -3949922391899481844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sewer_1_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2079b172fbc0dd545818d39f2d78a8bb
+      internalID: 2843689404680821357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
